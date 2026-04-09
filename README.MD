@@ -7,6 +7,7 @@ ADMIN_DOMAIN=zpro.io,yourdomain.com,anotherdomain.net
 ---
 
 यह मेरे ब्राज़ीलियाई दोस्तों की मदद के लिए साझा किया गया है — ज्ञान बाँटना गलत नहीं है।
+Reset the repository; don't fork it to avoid being tracked.
 
 ## License
 
