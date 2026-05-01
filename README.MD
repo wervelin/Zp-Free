@@ -1,7 +1,40 @@
-Coming soon 3.1.5.4.10 Alpha 15  
 Send your donation in BTC — any amount is welcome to help us keep contributing.
-
 bc1q2u0mwzlgel3t99789p0n96msajzffx0nwswpja
+
+
+New!!!!  
+🔥 NOVO HOTFIX DISPONÍVEL | v3.1.5.4.15 - 30/04/2026
+Correção cumulativa da versão Homolog atual.
+⚡️ Pacote frontNovo 4.0.0.alpha.21 disponível para testes
+
+🛑 AVISO: Faça um BACKUP antes de aplicar esta correção.
+
+🆕  NOVIDADES:
+
+➡️ Exclusivo frontNovo 4.0.0.alpha.21:
+
+- youtube comentarios / videos
+- mercadolivre autenticação custom domain
+- interação transferência de fila + chatbot
+- faturamento waba
+- conversão gatilho conversa iniciada
+- chatgpt + models (aviso system)
+- custom link postman
+- navegar até mensagem respondida do histórico
+- gmail, youtube, calendar com techprovider
+- reply email (mantendo a thread de resposta)
+- separadores data no chat privado e suporte chat
+- botao testar copilot
+- resumo contato persistido no banco
+- sentimento de conversa persistido no banco
+- botão para testar o copilot (configurações)
+- icone notificacoes pwa
+- ocultar informações de pagamento para user comum (editar tenant superadmin)
+- botao para adicionar midias recebidas a galeria
+- diagnostico de conexao em sessoes e configurações (waba, ig e messenger oauth)
+
+Link Download - https://transfer.it/t/iIVFnb4RhD5L
+
 
 ```md
 # Zpro FREE System
